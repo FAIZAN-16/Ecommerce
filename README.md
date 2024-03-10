@@ -27,7 +27,7 @@
 - First admin will login ( for username/password run following command in cmd )
 username: Admin
 gmail:admin@gmail.com
-password: Saurav@2001
+password:Faizan@2002
 ```
 py manage.py createsuperuser
 ```
